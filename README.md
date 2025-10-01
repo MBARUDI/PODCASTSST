@@ -9,7 +9,7 @@ A evolução da segurança no local de trabalho marca uma profunda mudança de u
 </p>
 
 <p align="center">
-    preview do podcast
+    
 </p>
 
 <div align="center">
