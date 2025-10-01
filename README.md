@@ -9,7 +9,7 @@ A evolução da segurança no local de trabalho marca uma profunda mudança de u
 </p>
 
 <p align="center">
-<a href="[https://dio.me/](https://youtu.be/aa1STnFahjo?si=iFPps6uz38HgQ9hR)">
+<a href="(https://youtu.be/aa1STnFahjo?si=iFPps6uz38HgQ9hR)">
     <img 
         src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
         alt="DIO - Code The Future">
