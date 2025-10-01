@@ -34,7 +34,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - [Gemini](https://gemini.google.com/app/) 
 - [Copilot](https://copilot.microsoft.com/chats/))
-- [NotebookLM](https://beta.elevenlabs.io/)](https://notebooklm.google.com/)
+- [NotebookLM](https://notebooklm.google.com/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
