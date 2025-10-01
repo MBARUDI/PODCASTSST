@@ -3,7 +3,7 @@ A evolução da segurança no local de trabalho marca uma profunda mudança de u
 
 <p align="center">
 <img 
-    src="./assets/Copilot_20251001_173227.png"
+    src="../assets/Copilot_20251001_173227.png"
     width="300"
 />
 </p>
