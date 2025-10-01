@@ -53,33 +53,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 👨‍💻 Expert
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src=""
-    />
-    <p>&nbsp&nbsp&nbspMarcelo Barudi<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/MBARUDI">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/marcelo-barudi">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/mdbarudi/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+
 
 <!--
 **MBARUDI/MBARUDI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
