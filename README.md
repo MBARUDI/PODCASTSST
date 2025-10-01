@@ -1,12 +1,7 @@
 # PODCASTSST
 A evolução da segurança no local de trabalho marca uma profunda mudança de um foco estreito no dano físico para uma abordagem abrangente e holística que integra o bem-estar psicológico e a saúde organizacional. 
 
-<p align="center">
-<img 
-    src="[./Copilot_20251001_173227.png](https://github.com/MBARUDI/PODCASTSST/blob/main/Gest%C3%A3o%20da%20Seguran%C3%A7a%20do%20trabalho/assets/Copilot_20251001_173227.png)"
-    width="300"
-/>
-</p>
+
 
 <p align="center">
 <a href="(https://youtu.be/aa1STnFahjo?si=iFPps6uz38HgQ9hR)">
