@@ -4,7 +4,7 @@ A evolução da segurança no local de trabalho marca uma profunda mudança de u
 
 
 <p align="center">
-<a href="(https://youtu.be/aa1STnFahjo?si=iFPps6uz38HgQ9hR)">
+<a href="(https://youtu.be/aa1STnFahjo?si=TTKiSXqe4R-u73ej)">
    
 </p>
 
