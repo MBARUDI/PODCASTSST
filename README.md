@@ -28,7 +28,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [Gemini](https://gemini.google.com/app/) 
-- [Copilot](https://copilot.microsoft.com/chats/))
+- [Copilot](https://copilot.microsoft.com/chats/)
 - [NotebookLM](https://notebooklm.google.com/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
