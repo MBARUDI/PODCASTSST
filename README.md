@@ -63,9 +63,9 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src=""
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspMarcelo Barudi<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/MBARUDI">
