@@ -3,7 +3,7 @@ A evolução da segurança no local de trabalho marca uma profunda mudança de u
 
 <p align="center">
 <img 
-    src="./Copilot_20251001_173227.png"
+    src="[./Copilot_20251001_173227.png](https://github.com/MBARUDI/PODCASTSST/blob/main/Gest%C3%A3o%20da%20Seguran%C3%A7a%20do%20trabalho/assets/Copilot_20251001_173227.png)"
     width="300"
 />
 </p>
